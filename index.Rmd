@@ -2,14 +2,13 @@
 title: "My Webpage"
 output: html_document
 ---
-
-# Cassady Gappmayer
-
 ___
+# **Cassady Gappmayer**
+___
+
+## [Resume](https://CasGap.github.io/about-me/Resume.pdf) | [Photo]
 
 ```{r echo=FALSE}
 knitr::include_graphics("./media/blossoms.jpg")
 ```
-
-# **[Resume](https://casgap.github.io/about-me/Resume.pdf)**
 
