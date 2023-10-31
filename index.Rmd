@@ -8,5 +8,8 @@ output: html_document
 ___
 
 ```{r echo=FALSE}
-knitr::include_graphics("./Media/blossoms.jpg")
+knitr::include_graphics("./media/blossoms.jpg")
 ```
+
+# **[Resume](https://casgap.github.io/about-me/Resume.pdf)**
+
