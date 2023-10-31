@@ -3,10 +3,13 @@ title: "My Webpage"
 output: html_document
 ---
 ___
-# **Cassady Gappmayer**
+
+## Utah Valley University
+
+## **Cassady Gappmayer**
 ___
 
-## [Resume](https://CasGap.github.io/about-me/Resume.pdf) | [Photo]
+## [Resume](https://casgap.github.io/about-me/Resume.pdf) | [Photo]
 
 ```{r echo=FALSE}
 knitr::include_graphics("./media/blossoms.jpg")
