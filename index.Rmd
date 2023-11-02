@@ -1,17 +1,30 @@
 ---
-title: "My Webpage"
+title: "Cassady Gappmayer"
 output: html_document
 ---
-___
 
-## Utah Valley University
-
-## **Cassady Gappmayer**
-___
-
-## [Resume](https://casgap.github.io/about-me/Resume.pdf) | [Photo]
-
-```{r echo=FALSE}
-knitr::include_graphics("./media/blossoms.jpg")
+```{r echo=FALSE,out.width = "50%",fig.align='center'}
+knitr::include_graphics("./media/state_capital_photo.jpg")
 ```
 
+## [Resume](https://casgap.github.io/about-me/Resume.pdf) | [Cover Letter](https://casgap.github.io/about-me/Cover_Letter.pdf)
+
+___
+
+
+## Hobbies
+
+### Getting outside, hiking
+
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/snowy_trees.jpg")
+
+knitr::include_graphics("./media/aspen.jpg")
+```
+
+### Working with kids, and drawing
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/student_drawing.jpg")
+
+knitr::include_graphics("./media/drawing_sample.jpg")
+```
