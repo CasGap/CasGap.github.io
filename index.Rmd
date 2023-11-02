@@ -11,20 +11,29 @@ knitr::include_graphics("./media/state_capital_photo.jpg")
 
 ___
 
-
-## Hobbies
-
-### Getting outside, hiking
-
+### I enjoy getting outdoors and hiking
 ```{r echo=FALSE,out.width = "50%"}
-knitr::include_graphics("./media/snowy_trees.jpg")
-
-knitr::include_graphics("./media/aspen.jpg")
+knitr::include_graphics("./media/snowy_mountains.jpg")
 ```
 
-### Working with kids, and drawing
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/wave_az.jpg")
+```
+
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/timp_view.jpg")
+```
+
+### Helping others develop capacities and talents
 ```{r echo=FALSE,out.width = "50%"}
 knitr::include_graphics("./media/student_drawing.jpg")
+```
 
-knitr::include_graphics("./media/drawing_sample.jpg")
+### Learning and discovery
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/crystal_chem.jpg")
+```
+
+```{r echo=FALSE,out.width = "50%"}
+knitr::include_graphics("./media/assay.jpg")
 ```
